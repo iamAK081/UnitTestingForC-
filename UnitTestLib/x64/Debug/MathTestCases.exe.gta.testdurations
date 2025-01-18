@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>E:\Working\C++\UnitTestLib\x64\Debug\MathTestCases.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestCaseForADD.TestcaseForPostive" Duration="1" />
+    <TestDuration Test="TestCaseForADD.TestCaseForNegative" Duration="1" />
+    <TestDuration Test="TestCaseForADD.TestCaseForZero" Duration="1" />
+    <TestDuration Test="TestCaseForADD.TestCaseForFirstPostive" Duration="1" />
+    <TestDuration Test="TestCaseForADD.TestCaseForSecondPostive" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
